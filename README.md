@@ -1,6 +1,6 @@
 # cloneCoding-Zero
 
-zreo-cho강의 clone 코딩
+zero-cho강의 clone 코딩
 
 인스타를 만들어서 crud를 배우는 강의로 
 
